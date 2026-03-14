@@ -13,8 +13,8 @@ function Home() {
          ];
 
          const handleSearch = () => {
-            alert(SearchQuery);
-         };
+            alert(searchquery);
+         }
 
     return (
         <div className="home">
